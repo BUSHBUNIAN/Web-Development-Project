@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Navigation Links Styling */
+.navlinks{
+    @apply text-purple-500 hover:text-white
+}
